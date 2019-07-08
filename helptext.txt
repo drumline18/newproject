@@ -1,0 +1,13 @@
+
+Small utility to create npm packages.
+If you dont provide a name, it will create one for you.
+
+Usage:
+  newproject
+  newproject [packages...]
+  newproject -n project_name [packages...]
+  newproject --help
+
+Options:
+  -n --name <name>     Specify a name for the package.
+  -h --help            Shows this screen.
